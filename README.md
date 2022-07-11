@@ -1,17 +1,9 @@
-I make things.
+Sorry, I don't have one of those fancy GitHub profiles that's 500 lines. I'm a developer primarily focused on web-technoligies with interests in various areas around computer science.
 
-##### Knows
+### Languages
 
-- JavaScript / TypeScript
-- Angular
-- React
-- Next.js
-- Electron
-- UI / UX
-- Vector design
+JavaScript, TypeScript, Rust
 
-  etc...
+### Frameworks
 
-##### Learning
-
-- Rust
+Angular, React, Next.js
