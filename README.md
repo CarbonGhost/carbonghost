@@ -1,9 +1,9 @@
-Sorry, I don't have one of those fancy GitHub profiles that's 500 lines. I'm a developer primarily focused on web-technoligies with interests in various areas around computer science.
+Hello, I'm Carbon. An American developer and designer living in Taiwan, focused on web and desktop development. This is my personal account where I post side projects and things I enjoy working on.
 
-### Languages
+#### Languages
 
-JavaScript, TypeScript, Rust
+JavaScript, TypeScript, and Rust
 
-### Frameworks
+#### Frameworks
 
-Angular, React, Next.js
+Angular, React, Next, and Solid
